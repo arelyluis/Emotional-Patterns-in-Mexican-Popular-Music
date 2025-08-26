@@ -2,7 +2,7 @@
 
 Universidad Nacional Autónoma de México | Escuela Nacional de Estudios Superiores, Unidad Morelia.
 
-- Arely Hilda Luis Tiburcio ([areelu](https://github.com/arelyluis))
+- Arely Hilda Luis Tiburcio ([arelyluis](https://github.com/arelyluis))
 - Marisol Flores Garrido
 
 # About
